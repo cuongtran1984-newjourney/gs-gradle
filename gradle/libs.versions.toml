@@ -1,0 +1,13 @@
+[versions]
+junitVer = "5.10.1"
+jmhVer = "1.37"
+
+[libraries]
+junit = { module = "org.junit.jupiter:junit-jupiter", version.ref = "junitVer" }
+jmhCore = { module = "org.openjdk.jmh:jmh-core", version.ref = "jmhVer"}
+jmhAnnProcess = { module = "org.openjdk.jmh:jmh-generator-annprocess", version.ref = "jmhVer"}
+
+[plugins]
+
+[bundles]
+
