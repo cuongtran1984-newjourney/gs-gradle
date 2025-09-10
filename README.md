@@ -1,1 +1,1 @@
-A sample project for trying Java related things
+A sample project for practicing Java core things.
